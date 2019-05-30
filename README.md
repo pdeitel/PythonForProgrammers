@@ -5,7 +5,7 @@ This repository contains the source code and supporting files associated with ou
 
 These files are Copyright 2019 by Pearson Education, Inc. All Rights Reserved. 
 
-You may use these files for your personal purposes. If you repost them, include the copyright notice, credit our book and link to deitel.com. 
+You may use these files for your personal purposes, but please do not repost them without our express written consent.
 
 If you have any questions, open an issue in the Issues tab or email us: deitel at deitel dot com.
 

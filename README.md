@@ -1,4 +1,4 @@
-**NOTE:** If you're trying to run the RollDieDynamic.py script in Chapter 1 and the window does not appear, this is due to a known issue in the software for which a fix is already in process. You can instead run the program with 
+**NOTE:** If you're trying to run the RollDieDynamic.py script in Chapter 1 and the window does not appear, this is due to a known issue in the software for which, a fix is already in process. You can instead run the program with : 
 
 >`ipython -i RollDieDynamic.py 6000 1`
     

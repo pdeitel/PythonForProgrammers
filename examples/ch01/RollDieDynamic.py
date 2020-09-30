@@ -1,9 +1,9 @@
 # RollDieDynamic.py
 """Dynamically graphing frequencies of die rolls."""
-from matplotlib import animation
-import matplotlib.pyplot as plt
+from matplotlib import animation #For animation
+import matplotlib.pyplot as plt #For plotting
 import random 
-import seaborn as sns
+import seaborn as sns #For data visualization
 import sys
 
 def update(frame_number, rolls, faces, frequencies):

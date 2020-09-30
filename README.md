@@ -1,3 +1,8 @@
+# IntroductionToPython
+Python is an interpreted, high-level and general-purpose programming language. Created by Guido van Rossum and first released in 1991, Python's design philosophy emphasizes code readability with its notable use of significant whitespace.
+Python is dynamically typed and garbage-collected. It supports multiple programming paradigms, including structured (particularly, procedural), object-oriented, and functional programming. Python is often described as a "batteries included" language due to its comprehensive standard library.
+Python was created in the late 1980s as a successor to the ABC language. Python 2.0, released in 2000, introduced features like list comprehensions and a garbage collection system with reference counting.
+
 **NOTE:** If you're trying to run the RollDieDynamic.py script in Chapter 1 and the window does not appear, this is due to a known issue in the software for which a fix is already in process. You can instead run the program with 
 
 >`ipython -i RollDieDynamic.py 6000 1`

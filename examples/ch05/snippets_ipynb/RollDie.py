@@ -1,9 +1,9 @@
 # coding: utf-8
-get_ipython().run_line_magic('matplotlib', 'inline')
+get_ipython().run_line_magic('matplotlib', 'inline')                       #importing python libraries like matplotllib and numpy for data visualization and data manipulation
 import matplotlib.pyplot as plt
 import numpy as np
-import random
-import seaborn as sns
+import random                   #random module for generating random numbers 
+import seaborn as sns             #seaborn for data visualization and data maniplation with pandas library
 rolls = [random.randrange(1, 7) for i in range(600)]
 values, frequencies = np.unique(rolls, return_counts=True)
 title = f'Rolling a Six-Sided Die {len(rolls):,} Times'

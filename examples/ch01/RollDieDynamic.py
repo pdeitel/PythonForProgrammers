@@ -1,9 +1,14 @@
 # RollDieDynamic.py
 """Dynamically graphing frequencies of die rolls."""
+
+#matplotlib library is used for create a figure,creating a ploting area in a figure etc.
 from matplotlib import animation
 import matplotlib.pyplot as plt
+#random library is used to pick to a random number by a system.
 import random 
+#seaborn is a library for making statistical graphics in Python.
 import seaborn as sns
+#The sys module provides information about constants, functions and methods of the Python interpreter..
 import sys
 
 def update(frame_number, rolls, faces, frequencies):

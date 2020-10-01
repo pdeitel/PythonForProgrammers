@@ -5,28 +5,28 @@ print('Enter two integers and I will tell you',
       'the relationships they satisfy.')
 
 # read first integer
-number1 = int(input('Enter first integer: '))
+first_integer = int(input('Enter first integer: '))
 
 # read second integer
-number2 = int(input('Enter second integer: '))
+second_integer = int(input('Enter second integer: '))
 
-if number1 == number2:
-    print(number1, 'is equal to', number2)
+if first_integer == second_integer:
+    print(first_integer, 'is equal to', second_integer)
 
-if number1 != number2:
-    print(number1, 'is not equal to', number2)
+if first_integer != second_integer:
+    print(first_integer, 'is not equal to', second_integer)
 
-if number1 < number2:
-    print(number1, 'is less than', number2)
+if first_integer < second_integer:
+    print(first_integer, 'is less than', second_integer)
 
-if number1 > number2:
-    print(number1, 'is greater than', number2)
+if first_integer > second_integer:
+    print(first_integer, 'is greater than', second_integer)
 
-if number1 <= number2:
-    print(number1, 'is less than or equal to', number2)
+if first_integer <= second_integer:
+    print(first_integer, 'is less than or equal to', second_integer)
 
-if number1 >= number2:
-    print(number1, 'is greater than or equal to', number2)
+if first_integer >= second_integer:
+    print(first_integer, 'is greater than or equal to', second_integer)
 
 ##########################################################################
 # (C) Copyright 2019 by Deitel & Associates, Inc. and                    #

@@ -4,7 +4,7 @@
     
 Then terminate IPython interactive mode (Ctrl + D twice) after you close the script's window.
 
-# PythonForProgrammers
+# Python For Programmers
 This repository contains the source code and supporting files associated with our book <a href=https://amzn.to/2Kd8dQk target="_blank">Python for Programmers</a>, which is a subset of our book <a href=https://amzn.to/2KfCptN target="_blank">Intro to Python for Computer Science and Data Science: Learning to Program with AI, Big Data and the Cloud.</a>
     
 ![Cover image for Python for Programmers](http://deitel.com/bookresources/PythonFP/PythonForProgrammersCover.png)

@@ -29,7 +29,7 @@ numbers.index(7, 0, 4)
 key = 1000
 
 if key in numbers:
-    print(f'found {key} at index {numbers.index(search_key)}')
+    print(f'found {key} at index {numbers.index(key)}')
 else:
     print(f'{key} not found')
     

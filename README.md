@@ -1,7 +1,7 @@
-# PythonForProgrammers
+# Python for Programmers
 This repository contains the source code and supporting files associated with our book <a href=https://amzn.to/2Kd8dQk target="_blank">Python for Programmers</a>, which is a subset of our book <a href=https://amzn.to/2KfCptN target="_blank">Intro to Python for Computer Science and Data Science: Learning to Program with AI, Big Data and the Cloud.</a>
     
-![Cover image for Python for Programmers](https://user-images.githubusercontent.com/77124662/176289616-9877619a-7fb8-4876-8872-cf36f2a27a3c.png)
+![Cover image for Python for Programmers](https://deitel.com/wp-content/uploads/2020/01/python-for-programmers.jpg)
 
 These files are Copyright 2019 by Pearson Education, Inc. All Rights Reserved. 
 
